@@ -1,0 +1,13 @@
+{{ define "main" }}
+<div class="pl-sm-4 ml-sm-5">
+    {{ .Content }}
+    <!-- homepage intro -->
+
+    {{ with .Site.GetPage "about.md" }} {{ .Content }}
+    <!-- about page -->
+    {{ end }}
+</div>
+
+{{ partial "category-posts.html" . }}
+<!-- posts list -->
+{{ end }}

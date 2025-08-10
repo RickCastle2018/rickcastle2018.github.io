@@ -1,4 +1,4 @@
-baseURL = "https://niknov.cc"
+baseURL = "https://nikonov.cc"
 title = "Nikita Nikonov"
 languageCode = "en-us"
 theme = "devise"
@@ -6,7 +6,7 @@ relativeURLs = true
 enableEmoji = true
 # googleAnalytics = ""
 enableRobotsTXT = true
-copyright = "&copy; 2025, Nikita Nikonov"
+copyright = "&copy; Nikita Nikonov, 2020–2025"
 
 # Main menu items
 [menu]
