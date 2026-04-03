@@ -8,6 +8,12 @@ author = "Hugo Authors"
 
 #### About Me
 
-There are two kinds of folks who sit around thinking about how to takeoff startups: sycophants and no-nonsense engineers. I’m the kind that makes it launch.
+There are two kinds of folks who sit around thinking about how to do startups: sycophants and actual builders. I'm the kind that ships product.
 
-I’m Nikita. Every software engineer needs an approach, and I found mine... And thanks to my friendship with amazing engineers, I get to work on [meaningful and exciting projects](https://www.linkedin.com/in/nikonovcc).
+Who am I? I’m Nikita Nikonov. Every builder needs direction, and I found mine… And thanks to my friendship with rainmakers, I get to be in the room; and together, we launch ventures.
+
+---
+
+Blockchain, AI, and full-stack developer; crypto enthusiast and consultant. I specialize in payments, high-load systems, and gaming, media, and trading projects. Keen on leading, reading and writing.
+
+I love meeting new people, discussing technology, and helping get stuff done.
